@@ -3,6 +3,8 @@
 <a href="https://velog.io/@sjm1013ok" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/apvmf32@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
+![JAMM's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAMM-JAMM&show_icons=true&theme=graywhite)
+
 <!--
 **JAMM-JAMM/JAMM-JAMM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
